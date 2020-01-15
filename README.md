@@ -16,7 +16,7 @@ How to run the projet
 
 1. Clone the repository.
 
-2. Launch the terminal from the project's root folder and type **npm run dev**.
+2. Launch the terminal from the project's root folder and type **npm install** follow by **npm run dev**.
 
 3. Navigate to http://localhost:5000/graphql. 
 
